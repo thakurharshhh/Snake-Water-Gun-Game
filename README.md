@@ -24,4 +24,4 @@ Make sure you have Python installed on your system. You can download Python from
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/Snake-Water-Gun-Game.git
+   git clone https://github.com/thakurharshhh/Snake-Water-Gun-Game.git
